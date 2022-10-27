@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhman20&label=Profile%20views&color=0e75b6&style=flat" alt="shubhman20" /> </p>
 
-- 🌱 I’m currently learning **scikit-learn/Seaborn/NumPy/pandas/Streamlit**
+- 🌱 I’m currently learning :    **scikit-learn/Seaborn/NumPy/pandas/Streamlit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhman20](https://github.com/shubhman20)
 
-- 📫 How to reach me **sharmamanish281@gmail.com**
+- 📫 Email Id : **sharmamanish281@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
