@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhman20](https://github.com/shubhman20)
 
-- 📫 How to reach me: **sharmamanish281@gmail.com**
+- 📫 How to reach me: **manish.sharma20@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
