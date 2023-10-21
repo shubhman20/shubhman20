@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhman20&label=Profile%20views&color=0e75b6&style=flat" alt="shubhman20" /> </p>
 
-- 🌱 I’m currently learning:  **scikit-learn/NumPy/pandas**
+- 🌱 I’m currently learning:  **ML/NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhman20](https://github.com/shubhman20)
 
